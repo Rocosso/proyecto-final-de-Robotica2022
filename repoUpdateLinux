@@ -1,6 +1,12 @@
 #!/bin/bash/
 # para correr este escript de actualizacion solo se debe abrir un git bash
-# y en el ejecutar ./repoUpdateLinux
+# y en el ejecutar:
+
+#                sh ./repoUpdateLinux
+
+# si no funciona usar:
+
+#                bash ./repoUpdateLinux
 
 # una vez hecho esto nos aparecera un archivo de nano para ser escrito y guardado,
 # ahi debemos dejar el mensaje del commit y guardar.
@@ -19,6 +25,11 @@
 
 # al cerrar nano se realizara la actualizacion del repo paso  paso y dejara en la 
 # terminal el historial explicado de lo que ha hecho
+
+# si se desea usar este script para otros repositorios debe revisarse la rama a la que se desea subir la informacion
+# en el caso de ABB la rama es "master", en el proyecto final la rama es "main"
+
+#para revisar la rama usar ""git branch""
 echo " ======================================================"
 echo " =                  reinicializando:                  ="
 echo " ======================================================"
