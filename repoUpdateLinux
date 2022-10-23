@@ -27,7 +27,7 @@
 # terminal el historial explicado de lo que ha hecho
 
 # si se desea usar este script para otros repositorios debe revisarse la rama a la que se desea subir la informacion
-# en el caso de ABB la rama es "master", en el proyecto final la rama es "main"
+# en el caso de ""ABBRobotAssemblyProcess"" la rama es "master", en el ""proyecto final de robotica 2022"" la rama es "main"
 
 #para revisar la rama usar ""git branch""
 echo " ======================================================"
