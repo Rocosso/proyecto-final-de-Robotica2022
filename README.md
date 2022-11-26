@@ -103,12 +103,13 @@ Se encuentra la carpeta "Modelo en Robot Studio", el proyecto realizado en Robot
 
 El video presentación se encuentra en un archivo de texto en la carpeta "Videos", tambien puede verse a continuación: 
 
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/qKf2EwInKbA">
-</iframe>
+
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qKf2EwInKbA
 " target="_blank"><img src="http://img.youtube.com/vi/YqKf2EwInKbA/0.jpg" 
 alt="Video proyecto final" width="240" height="180" border="10" /></a>
+
+
+ [[youtube-{16by9}-{KRXdD8bHJrY}]] 
 
