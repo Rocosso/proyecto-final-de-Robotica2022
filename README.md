@@ -7,6 +7,13 @@ Archivos del proyecto final del curso de robotica en segundos semestre de 2022
 </p>
 </div>
 
+<div>
+<p style = 'text-align:left;'>
+<img src="https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/logotipos/labsir_logo.jpg" alt="Logo LAbsir" width="250px">
+</p>
+</div>
+
+
 Por:
 
 *Luis Alberto Chavez* 
@@ -94,4 +101,8 @@ Luego se generaron las trayectorias definiendo puntos finales e iniciales en cad
 
 Se encuentra la carpeta "Modelo en Robot Studio", el proyecto realizado en RobotStudio con todos los elementos montados y desarrollados. En este mismo se encuentra el código generado en Rapid, con los respectivos comentarios que describen su operación.
 
-El video presentación se encuentra adjunto en la carpeta "Videos"
+El video presentación se encuentra en un archivo de texto en la carpeta "Videos", tambien puede verse a continuación: 
+
+<iframe width="600" height = "420"
+src="https://www.youtube.com/embed/qKf2EwInKbA">
+</iframe>
