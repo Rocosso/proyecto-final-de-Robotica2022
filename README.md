@@ -55,12 +55,11 @@ Para finalizar el proceso de ensamble, se coloca la tapa sobre la base gripper, 
 Figura paso 5
 
 
-# Descripción, planos y fotografı́as del gripper diseñado y sus piezas para el proceso de ensamble.
+# Herramienta porta ventosas.
 
+La herramienta a usar en el proceso de ensamble requiere que encaje con el portaherramientas del manipulador IRB140 del laboratorio LabSIR, además de adaptar una ventosa la cual levantara a presión las piezas para realizar el proceso; de esta forma, como es comentado inicialmente, la herramienta fabricada en este proyecto cumple con los requisitos pedidos, solo que la ventosa no hará como tal el levantamiento de las piezas, sino que se dispone de un sistema de accionamiento basado en el funcionamiento de la ventosa. En la herramienta, la ventosa dispuesta agarra una plataforma que se desliza, generando el desplazamiento de una palanca para accionar la garra y operar como un gripper. 
 
-
-# Descripción, planos y fotografı́as de la herramienta porta ventosas creada para la tarea de ensamble.
-
+Los planos se encuentran en formato PDF adjuntos en la carpeta "Planos" del repositorio.
 
 ![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper.png)
 
@@ -68,17 +67,8 @@ Figura paso 5
 
 ![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper2.bmp)
 
-![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper3.bmp)
-
-![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper4.bmp)
-
-![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper5.bmp)
-
-![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper6.bmp)
-
-![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper8.bmp)
-
 ![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper9.bmp)
 
-![Modelo del robot PhantomX Pincher AX-12 ](https://github.com/Rocosso/proyecto-final-de-Robotica2022/blob/main/Imagenes/Gripper%20portaventosas/Gripper10.bmp)
+# Gripper diseñado y sus piezas.
+
 
