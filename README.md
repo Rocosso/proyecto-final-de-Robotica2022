@@ -82,6 +82,16 @@ Los planos se encuentran en formato PDF adjuntos en la carpeta "Planos" del repo
 
 *render ensamble 2*
 
+# El código
+
+Con ayuda de Robot Studio, se realizo el montaje y simulación de los elementos y el proceso de ensamble, permitiendo manipular targets y trayectorias según correspondía, fue agregado el modelo de manipulador IRB140 con su controlador respectivo dado por el software, que refiere al controlador físico IRC5. Fueron importados al proyecto el modelo stp de la herramienta, al igual que de las piezas para el ensamble; fueron reubicada para encontrarse en la posicion inicial, en la base dispuesta para ser recogidas. 
+
+Luego se realizó la generación de los puntos objetivo para el proceso, como home, safe y los puntos de cada pieza donde es agarrado y ensamblado, teniendo en cuenta que existia un punto donde los recoje y un punto un poco más arriba para una aproximación más segura y al aire.
+
+Luego se generaron las trayectorias definiendo puntos finales e iniciales en cada paso, al igual que verificando la configuración tomada por el robot en cada paso.
+
 # Otros adjuntos
 
-Se encuentra la carpeta 
+Se encuentra la carpeta "Modelo en Robot Studio", el proyecto realizado en RobotStudio con todos los elementos montados y desarrollados. En este mismo se encuentra el código generado en Rapid, con los respectivos comentarios que describen su operación.
+
+El video presentación se encuentra adjunto en la carpeta "Videos"
