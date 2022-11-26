@@ -111,5 +111,6 @@ El video presentación se encuentra en un archivo de texto en la carpeta "Videos
 alt="Video proyecto final" width="240" height="180" border="10" /></a>
 
 
- [[youtube-{16by9}-{KRXdD8bHJrY}]] 
+
+[![Alt text](https://img.youtube.com/vi/YqKf2EwInKbA/0.jpg)](https://www.youtube.com/watch?v=YqKf2EwInKbA)
 
