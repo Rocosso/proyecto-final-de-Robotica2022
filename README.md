@@ -103,5 +103,5 @@ Se encuentra la carpeta "Modelo en Robot Studio", el proyecto realizado en Robot
 
 El video presentación se encuentra en un archivo de texto en la carpeta "Videos", tambien puede verse a continuación: 
 
-[![proceso de ensamble de un gripper de cierre dinámico mediante control On/Off](https://img.youtube.com/vi/wzb-LIEF7Ps /0.jpg)](https://www.youtube.com/watch?v=wzb-LIEF7Ps )
+[![proceso de ensamble de un gripper de cierre dinámico mediante control On/Off](https://img.youtube.com/vi/wzb-LIEF7Ps/0.jpg)](https://www.youtube.com/watch?v=wzb-LIEF7Ps)
 
